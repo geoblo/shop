@@ -9,7 +9,7 @@ function Header() {
           subtitle subtitle subtitle subtitle subtitle subtitle subtitle
           subtitle subtitle subtitle subtitle subtitle
         </div>
-        <div classNames="btn__area">
+        <div className="btn__area">
           <a href="https://www.protopie.io" target="_blank" rel="noreferrer">
             <button>Try Yourself</button>
           </a>
